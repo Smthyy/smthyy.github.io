@@ -14,7 +14,7 @@ ul {
     list-style-type: none;
     padding: 0;
     overflow: hidden;
-    background-color:#000000;
+    background-color: #8961FF;
     display: flex;  
     margin: 0;
     justify-content: space-between;
@@ -34,7 +34,7 @@ li a {
     
 
 a{
-    color: #808080;
+    color: ##8961FF;
 }
 
 main {
@@ -58,7 +58,7 @@ header {
 }
 
 .footer {
-    background-color: #000000;
+    background-color: ##8961FF;
     margin-top: 48px;
     padding: 24px;
     text-align: center;
