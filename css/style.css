@@ -3,7 +3,7 @@ html, body {
 }
 
 body{
-    background-color: #8961FF;
+    background-color: #0E0C13;
     font-family: arial, helvetica, sans-serif;
     color: #000000;
     display: flex;
@@ -14,7 +14,7 @@ ul {
     list-style-type: none;
     padding: 0;
     overflow: hidden;
-    background-color: #8961FF;
+    background-color: #0E0C13;
     display: flex;  
     margin: 0;
     justify-content: space-between;
@@ -34,7 +34,7 @@ li a {
     
 
 a{
-    color: ##8961FF;
+    color: #0E0C13;
 }
 
 main {
@@ -58,7 +58,7 @@ header {
 }
 
 .footer {
-    background-color: ##8961FF;
+    background-color: #0E0C13;
     margin-top: 48px;
     padding: 24px;
     text-align: center;
